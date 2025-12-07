@@ -14,7 +14,65 @@
 }
 
 /* MuhammadSodiq page start */
+header {
+  align-items: center;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
 
+.header-title {
+  font-size: 45px;
+  color: #6c60fe;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.header-links {
+  display: flex;
+  gap: 50px;
+}
+
+.navbar {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-link {
+  color: black;
+  font-family: sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.navbar-link:hover {
+  color: grey;
+}
+
+.header-btns {
+  display: flex;
+}
+
+.header-btn1 {
+  font-weight: 600;
+  padding: 10px 20px;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.header-btn2 {
+  color: white;
+  font-weight: 500;
+  padding: 10px 20px;
+  border: none;
+  background-color: #6c60fe;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 4px;
+}
 /* MuhammadSodiq page end */
 
 /* Rahmatullo page start */
