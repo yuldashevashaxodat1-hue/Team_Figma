@@ -81,6 +81,51 @@ header {
 
 /* Akbarshox page start */
 
+.trusted-section {
+  text-align: center;
+  margin: 28px 0 48px;
+}
+
+.trusted-title {
+  font-family: "Merriweather", serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 14px;
+  color: #111;
+}
+
+
+.trusted-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;              
+  flex-wrap: wrap;        
+  padding: 8px 10px;
+  opacity: 0.95;
+}
+
+
+.trusted-logos .logo {
+  display: inline-block;
+  max-height: 36px;       
+  width: auto;
+}
+
+.Real_time{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn{
+  margin-top: 10px;
+  font-size: 12px;
+  border: 0;
+  border-radius: 10px;
+}
+
+
 /* Akbarshox page end */
 
 /* Abdulaziz page start */
