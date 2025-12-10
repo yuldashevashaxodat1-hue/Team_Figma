@@ -201,7 +201,29 @@ header {
 /* Valixon page end */
 
 /* Maftuna page start */
-
+.time-container {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #3B32A6;
+  padding: 80px 0px;
+}
+.time-title {
+  color: #FFFFFF;
+  font-size: 44px;
+}
+.time-text1 {
+color: #FFFFFF80;
+}
+.time-text2 {
+color: #FFFFFF80;
+margin-bottom: 20px;
+}
+.time-img {
+  width: 50%;
+}
 /* Maftuna page end */
 
 /* Ayubxon page start */
